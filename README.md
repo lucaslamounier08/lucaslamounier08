@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Lucas 👋
 
-<!--
-**lucaslamounier08/lucaslamounier08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Java Backend Engineer
 
-Here are some ideas to get you started:
+I build reliable backend systems, APIs, and distributed applications, with 7+ years of experience across fintech, payment processing, and enterprise platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Java, Spring Boot, Spring Security, Spring Data
+- **Architecture:** Microservices, Monoliths, Event-Driven Systems, REST, GraphQL
+- **Databases & Messaging:** PostgreSQL, SQL Server, MongoDB, Redis, RabbitMQ
+- **Cloud & DevOps:** GCP, Azure, Docker, Kubernetes, CI/CD
+- **Testing:** JUnit 5, Mockito, Testcontainers
+
+### What I focus on
+
+Clean code, maintainable architecture, automated testing, system integration, and production-ready software.
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/lucaslamounier08)
